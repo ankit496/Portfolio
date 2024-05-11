@@ -32,7 +32,7 @@ export default function Hero() {
         </div>
       </div>
       <div className='md:mr-[48px]'>
-        <img className="md:mt-8px ml-2 w-72 md:w-96 h-auto rounded-full hover:scale-105 ease-in duration-300 shadow-xl shadow-black" src="\assets\hero_image.gif" alt="coding image" />
+        <img className="md:mt-8px ml-2 w-72 md:w-96 h-auto rounded-full hover:scale-105 ease-in duration-300 shadow-xl shadow-black" src="/hero_image.gif" alt="coding image" />
       </div>
     </div>
   )
