@@ -112,7 +112,7 @@ function Skills() {
                                 </p>
                             </div>
                             <div className='bg-black shadow-xl shadow-gray-600 transition-transform transition-duration-3000 hover:scale-105'>
-                                <img src="\assets\redux.png" className="w-20 mx-auto mb-4 mt-4" alt="" />
+                                <img src="/assets/redux.png" className="w-20 mx-auto mb-4 mt-4" alt="" />
                                 <p className='text-white text-lg text-center'>
                                     Redux
                                 </p>
