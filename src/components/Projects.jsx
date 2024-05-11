@@ -31,7 +31,7 @@ function Projects() {
                         </div>
                     </div>
                     <div className='md:col-start-2 bg-black shadow-2xl shadow-gray-200 hover:scale-105 transition-transform transition-duration-500 ease-in-out'>
-                        <img src="/iNotebook.png" className="mx-auto " alt="" />
+                        <img src="/inotebook.png" className="mx-auto " alt="" />
                         <div className='flex flex-col md:flex-row justify-center items-center md:justify-between p-3'>
                         <p className='text-lg sm:text-xl md:text-2xl font-semibold text-gray-300 text-center'>iNoteBook</p>
                         <FaGithub className='w-10 h-10 lg:m-0 mt-2 hover:scale-105 transition-transform transition-duration-300 ease-in-out cursor-pointer' style={{color:'white'}}/>
