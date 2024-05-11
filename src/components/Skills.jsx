@@ -1,4 +1,5 @@
 import React from 'react'
+import cpp from "./c++.png"
 function Skills() {
     return (
         <>
@@ -10,7 +11,7 @@ function Skills() {
                     <div>
                         <div className='grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4'>
                             <div className='bg-black shadow-xl shadow-gray-600 transition-transform transition-duration-3000 hover:scale-105'>
-                                <img src="src\assets\c++.png" className="w-20 mx-auto mb-4 mt-4" alt="" />
+                                <img src={cpp} className="w-20 mx-auto mb-4 mt-4" alt="" />
                                 <p className='text-white text-lg text-center'>
                                     C++
                                 </p>
